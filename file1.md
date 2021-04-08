@@ -11,7 +11,7 @@
 
 ##### a picture from the internet
 
-![A image from the internet](https://image.baidu.com/search/albumsdetail?tn=albumsdetail&word=%E5%9F%8E%E5%B8%82%E5%BB%BA%E7%AD%91%E6%91%84%E5%BD%B1%E4%B8%93%E9%A2%98&fr=searchindex_album%20&album_tab=%E5%BB%BA%E7%AD%91&album_id=7&rn=30)
+![A image from the internet](https://i1.hdslb.com/bfs/archive/c0fa966ef05e15a52625a764b8c829b9a204c984.jpg@309w_174h_1c_100q.webp)
 
 
 ```c++
